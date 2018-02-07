@@ -1,4 +1,4 @@
-def ElevMap():
+def ElevMap(str_dir_main, str_mxd_blank, str_df_cur, str_lyr_cur, str_mxd_save):
 
     import arcpy
 
